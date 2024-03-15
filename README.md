@@ -1,4 +1,4 @@
-# Wordle-Low-Budget
+# Wordle
 
 ## Overview
 
