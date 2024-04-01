@@ -2,12 +2,8 @@
 
 ## Overview
 
-The project is carried out within the Computer Systems Architecture course and is based on Claude Shannon's Information Theory. We recreated the famous Wordle game that became popular in 2021. What is special about our project is that by combining the 2 ideas, we recreated a Wordle that plays itself making the best word choices.
+We combined the concepts of Claude Shannon's Information Theory with the popular Wordle game, creating a self-playing Wordle game that makes the best word choices.
 
-![image1](https://raw.githubusercontent.com/MituIustin/Wordle-Low-Budget/main/readmephotos/Capture1.PNG)
-
-
-![image2](https://raw.githubusercontent.com/MituIustin/Wordle-Low-Budget/main/readmephotos/Capture2.PNG)
 
 
 
@@ -29,12 +25,10 @@ The project is carried out within the Computer Systems Architecture course and i
 
 ## The non-automated version
 
-This project also contains the non-automated version. All you have to do to be able to play is to enter the "Versiunea Neautomatizata" directory, download the code and run it in any IDE.
+This project also contains the non-automated version. All you have to do to be able to play is to enter the "Unautomated Wordle" directory, download the code and run it in any IDE.
 
 Some images from the non-automated version:
 
-![image3](https://raw.githubusercontent.com/MituIustin/Wordle-Low-Budget/main/readmephotos/Capture3.PNG)
-![image4](https://raw.githubusercontent.com/MituIustin/Wordle-Low-Budget/main/readmephotos/Capture4.PNG)
 
 ## Must know:
 
